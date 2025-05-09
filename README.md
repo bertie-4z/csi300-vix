@@ -5,7 +5,7 @@ Builds upon the work of the CIMV project of THU (https://xyfintech.pbcsf.tsinghu
 
 End result should look like: 
 
-![](csi300-vix/blob/main/cimv_graph.png?raw=true "")
+![plot](csi300-vix/blob/main/cimv_graph.png)
 https://github.com/bertie-4z/csi300-vix/blob/main/cimv_graph.png
 
 End result is stored in CIMV_df.pkl
